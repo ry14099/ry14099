@@ -5,6 +5,14 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ry14099/ry14099/output/github-contribution-grid-snake.svg">
 </picture>
 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+👋 Hi there
+
+
+
 <!--
 **ry14099/ry14099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,6 +27,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
-<img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
+
