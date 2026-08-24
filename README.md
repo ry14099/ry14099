@@ -35,7 +35,7 @@ me = Student()
 me.say_hi()
 
 <!--
-- 😎I’m currently working on something cool
+- 😎 I’m currently working on something cool
 - 🌱 I’m currently learning VScode PowerBI
 - 🧐 Fun fact: I am a cat person 😺
 -->
